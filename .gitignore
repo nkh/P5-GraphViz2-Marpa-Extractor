@@ -1,0 +1,16 @@
+
+*.bat
+*.swo
+*.swp
+*.tar.gz
+*.tmp
+Build
+Changes
+META.json
+META.yml
+MYMETA.json
+MYMETA.yml
+_build/
+blib/
+divers/
+errors/
